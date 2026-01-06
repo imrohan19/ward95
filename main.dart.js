@@ -81505,7 +81505,7 @@ A.alg.prototype={
 $0(){return this.a.d=this.b},
 $S:0}
 A.Ge.prototype={
-N(a){var s,r,q,p,o,n=this,m=null,l="assets/candidate.png",k=t.p,j=n.c,i=A.eD(m,A.aoL(!0,A.kp(A.c([A.kp(A.c([A.asl("assets/img_1.png",m,50,50),B.Q6,A.f2(B.Iq,B.bv,B.h7,B.an)],k),B.a2,B.a9,B.an,0),A.kp(A.c([B.Vu,new A.Lu(j,n.d,B.tU,m),B.Vv],k),B.a2,B.a9,B.an,0)],k),B.a2,B.k_,B.an,0),!0),B.w,m,B.Ai,m,m,m,B.Fv,m,m,m)
+N(a){var s,r,q,p,o,n=this,m=null,l="assets/candidate.png",k=t.p,j=n.c,i=A.eD(m,A.aoL(!0,A.kp(A.c([A.kp(A.c([A.asl("assets/img_1.png",m,50,50),B.Q6,A.f2(B.Iq,B.bv,B.h7,B.an)],k),B.a2,B.a9,B.an,0),A.kp(A.c([B.Vv,new A.Lu(j,n.d,B.tU,m),B.Vw],k),B.a2,B.a9,B.an,0)],k),B.a2,B.k_,B.an,0),!0),B.w,m,B.Ai,m,m,m,B.Fv,m,m,m)
 if(A.bM(a,m,t.w).w.a.a<900){s=n.Jk()
 r=n.ou(l,j?"\u092a\u0915\u094d\u0937\u093e\u0927\u094d\u092f\u0915\u094d\u0937":"President")
 q=n.ou(l,j?"\u0909\u092a\u093e\u0927\u094d\u092f\u0915\u094d\u0937":"Vice President")
@@ -81525,13 +81525,13 @@ r=t.E
 q=A.c([new A.aZ(0,B.B,A.ai(B.c.aB(76.5),B.l.v()>>>16&255,B.l.v()>>>8&255,B.l.v()&255),B.eC,15)],r)
 r=A.c([new A.aZ(0,B.B,A.ai(51,B.l.v()>>>16&255,B.l.v()>>>8&255,B.l.v()&255),B.hc,8)],r)
 p=t.p
-return A.f2(A.c([B.Ch,B.cS,m,B.kJ,l,B.kK,k,B.hH,A.eD(o,new A.cz(B.fB,A.f2(A.c([A.eD(o,A.WT(o,new A.l9("assets/img_1.png",o,o),o,90),B.w,o,new A.cg(o,o,o,o,r,o,B.dQ),o,o,o,B.Fq,o,o,o),B.Q7,A.cr("\u0928\u093f\u0936\u093e\u0928\u0940: \u0927\u0928\u0941\u0937\u094d\u092f\u092c\u093e\u0923",o,o,o,B.RQ,o,o),B.yN],p),B.a2,B.a9,B.cK),o),B.w,o,new A.cg(o,o,o,s,q,B.Hq,B.ai),o,o,B.Fp,o,o,o,o),B.yL,this.a0p()],p),B.a2,B.a9,B.an)},
+return A.f2(A.c([B.Ch,B.cS,m,B.kJ,l,B.kK,k,B.hH,A.eD(o,new A.cz(B.fB,A.f2(A.c([A.eD(o,A.WT(o,new A.l9("assets/img_1.png",o,o),o,90),B.w,o,new A.cg(o,o,o,o,r,o,B.dQ),o,o,o,B.Fq,o,o,o),B.Q7,A.cr("\u0928\u093f\u0936\u093e\u0928\u0940: \u092e\u0936\u093e\u0932",o,o,o,B.RQ,o,o),B.yN],p),B.a2,B.a9,B.cK),o),B.w,o,new A.cg(o,o,o,s,q,B.Hq,B.ai),o,o,B.Fp,o,o,o,o),B.yL,this.a0p()],p),B.a2,B.a9,B.an)},
 ou(a,b){var s=null
 return A.f2(A.c([A.WT(B.k,s,A.WT(s,new A.l9(a,s,s),s,35),38),B.kK,A.cr(b,s,s,s,B.UX,s,s)],t.p),B.a2,B.a9,B.an)},
-a0p(){var s=null,r=A.aBR(B.GA,B.Vw,new A.WF(),A.arU(s,s,B.l,s,s,s,s,s,s,s,s,s,B.n0,s,s,s,s,s,s,s)),q=A.aDz(s,s,s,s,s,s,s,s,s,s,s,s,B.n0,s,s,B.A6,s,s,s,s)
+a0p(){var s=null,r=A.aBR(B.GA,B.Vu,new A.WF(),A.arU(s,s,B.l,s,s,s,s,s,s,s,s,s,B.n0,s,s,s,s,s,s,s)),q=A.aDz(s,s,s,s,s,s,s,s,s,s,s,s,B.n0,s,s,B.A6,s,s,s,s)
 return A.Mj(B.f_,A.c([r,A.aDy(B.Gy,A.cr(this.c?"\u0918\u091f\u0915\u0938\u0942\u091a\u0940 \u0921\u093e\u0909\u0928\u0932\u094b\u0921 \u0915\u0930\u093e":"Download Manifesto",s,s,s,B.hO,s,s),A.aKB(),q)],t.p),12,15)},
 a0w(){var s=null,r=this.c,q=r?"\u0968\u096ax\u096d \u092a\u093e\u0923\u0940\u092a\u0941\u0930\u0935\u0920\u093e":"24x7 Water Supply",p=r?"\u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0918\u0930\u093e\u092a\u0930\u094d\u092f\u0902\u0924 \u0938\u094d\u0935\u091a\u094d\u091b \u092a\u093e\u0923\u0940":"Clean and uninterrupted water to every household",o=r?"\u0916\u0921\u094d\u0921\u0947\u092e\u0941\u0915\u094d\u0924 \u0930\u0938\u094d\u0924\u0947":"Pothole-Free Roads",n=r?"\u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0935 \u091f\u093f\u0915\u093e\u090a \u0930\u0938\u094d\u0924\u0947":"Safe, durable & well-maintained roads",m=r?"\u092e\u0939\u093f\u0932\u093e \u0938\u0941\u0930\u0915\u094d\u0937\u093e":"Women Safety",l=r?"\u0938\u0940\u0938\u0940\u091f\u0940\u0935\u094d\u0939\u0940 \u0935 \u092a\u094d\u0930\u0915\u093e\u0936 \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e":"CCTV cameras & well-lit streets",k=r?"\u092f\u0941\u0935\u0915 \u0930\u094b\u091c\u0917\u093e\u0930":"Youth Employment",j=r?"\u0915\u094c\u0936\u0932\u094d\u092f \u0935\u093f\u0915\u093e\u0938 \u0935 \u0930\u094b\u091c\u0917\u093e\u0930":"Skill training & local job creation",i=r?"\u0938\u094d\u0935\u091a\u094d\u091b \u092a\u094d\u0930\u092d\u093e\u0917":"Clean Ward",h=r?"\u0928\u093f\u092f\u092e\u093f\u0924 \u0915\u091a\u0930\u093e \u0909\u091a\u0932":"Daily garbage collection & hygiene",g=r?"\u091c\u094d\u092f\u0947\u0937\u094d\u0920 \u0928\u093e\u0917\u0930\u093f\u0915 \u0915\u093e\u0933\u091c\u0940":"Senior Citizen Care",f=r?"\u0906\u0930\u094b\u0917\u094d\u092f \u0935 \u0938\u0939\u093e\u092f\u094d\u092f \u0938\u0947\u0935\u093e":"Healthcare & assistance services",e=A.c([new A.jI("assets/water.jpg",B.Gr,q,p,B.cL),new A.jI("assets/roads.jpg",B.Gc,o,n,B.Lx),new A.jI("assets/women_safety.jpg",B.Gq,m,l,B.k1),new A.jI("assets/jobs.jpg",B.nv,k,j,B.Ly),new A.jI("assets/cleanliness.jpg",B.Gh,i,h,B.LA),new A.jI("assets/senior_care.jpg",B.nu,g,f,B.tT)],t.dc)
-q=A.cr(r?"\u092a\u094d\u0930\u092d\u093e\u0917 94 \u0938\u093e\u0920\u0940 \u0906\u092e\u091a\u0940 \u0935\u091a\u0928\u092c\u0926\u094d\u0927\u0924\u093e":"Our Commitments for Ward 94",s,s,s,B.Ui,B.cj,s)
+q=A.cr(r?"\u092a\u094d\u0930\u092d\u093e\u0917 95 \u0938\u093e\u0920\u0940 \u0906\u092e\u091a\u0940 \u0935\u091a\u0928\u092c\u0926\u094d\u0927\u0924\u093e":"Our Commitments for Ward 95",s,s,s,B.Ui,B.cj,s)
 return A.eD(s,A.f2(A.c([q,B.yN,A.cr(r?"\u0935\u093f\u0915\u093e\u0938, \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0906\u0923\u093f \u091c\u092c\u093e\u092c\u0926\u093e\u0930\u0940":"Development, Trust & Accountability",s,s,s,B.T3,s,s),B.yM,A.asM(new A.WH(this,e))],t.p),B.a2,B.a9,B.an),B.w,s,B.Aj,s,s,s,B.Fy,s,s,s)},
 CH(a,b,c){var s=null,r=A.hD(15),q=new A.aY(A.ai(B.c.aB(127.5),c.v()>>>16&255,c.v()>>>8&255,c.v()&255),1,B.x,-1)
 return A.eD(s,A.f2(A.c([A.a0Q(a,c,s,40),B.kJ,A.cr(b,s,s,s,B.Tu,B.cj,s)],t.p),B.a2,B.a9,B.an),B.w,s,new A.cg(B.k,s,new A.dh(q,q,q,q),r,s,s,B.ai),s,s,s,B.Fn,s,s,160)},
@@ -86851,9 +86851,9 @@ B.Vs=new A.cV(B.Ta,B.Sc,B.Tb,B.TM,B.RO,B.RW,B.Sw,B.Tz,B.SK,B.Uj,B.Rh,B.RC,B.Ud,B
 B.De=new A.m(0.5411764705882353,1,1,1,B.e)
 B.RF=new A.j(!0,B.De,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Vt=new A.eQ("\xa9 2026 Election Portal",null,B.RF,null,null,null,null,null,null)
-B.Vu=new A.eQ("EN",null,B.hO,null,null,null,null,null,null)
-B.Vv=new A.eQ("\u092e\u0930\u093e\u0920\u0940",null,B.hO,null,null,null,null,null,null)
-B.Vw=new A.eQ("\u0927\u0928\u0941\u0937\u094d\u092f \u092c\u093e\u0923\u093e\u0932\u093e \u092e\u0924 \u0926\u094d\u092f\u093e",null,B.hO,null,null,null,null,null,null)
+B.Vu=new A.eQ("\u092e\u0936\u093e\u0932\u0940\u0932\u093e \u092e\u0924 \u0926\u094d\u092f\u093e",null,B.hO,null,null,null,null,null,null)
+B.Vv=new A.eQ("EN",null,B.hO,null,null,null,null,null,null)
+B.Vw=new A.eQ("\u092e\u0930\u093e\u0920\u0940",null,B.hO,null,null,null,null,null,null)
 B.Vx=new A.eQ("Select Issue Category",null,null,null,null,null,null,null,null)
 B.UO=new A.j(!0,B.k,null,null,null,null,16,B.ay,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Vy=new A.eQ("SUBMIT TO CANDIDATE",null,B.UO,null,null,null,null,null,null)
